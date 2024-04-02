@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "12",
+      "name": "Caneta Preta"
+    },
+    {
+      "id": "3",
+      "name": "Lápis"
+    },
+    {
+      "id": "3",
+      "name": "Lápis",
+      "price": 5.99
+    }
+  ],
+  "customers": [
+    {
+      "id": "5",
+      "name": "Douglas"
+    }
+  ]
+}
